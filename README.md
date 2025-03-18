@@ -13,7 +13,7 @@ This is a web-based remake of the classic **Simon Game**, developed as part of m
 3. The pattern gets longer with each successful round—test your memory!  
 
 ## 🔗 **Live Demo**
-[Play the Simon Game](https://yourusername.github.io/simon-game/) *(Update with your actual GitHub Pages link)*  
+[Play the Simon Game](https://cruzvic.github.io/simon-game-remake/) *(Update with your actual GitHub Pages link)*  
 
 ## 🛠️ **Technologies Used**
 - HTML  
