@@ -22,3 +22,4 @@ This is a web-based remake of the classic **Simon Game**, developed as part of m
 
 ## 📌 **Disclaimer**
 This project is for **learning purposes only** and is not an official recreation of the Simon Game.  
+**Only works on Desktop properly**
